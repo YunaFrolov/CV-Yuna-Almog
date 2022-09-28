@@ -1,2 +1,4 @@
-# CV-Yuna-Almog
-HTML CV
+## CV Yuna Almog
+
+
+A web CV to display some development skills
